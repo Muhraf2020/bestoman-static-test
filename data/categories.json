@@ -1,0 +1,26 @@
+[
+  {
+    "key": "places-to-visit",
+    "label": "Places to Visit",
+    "children": [
+      {
+        "key": "attractions",
+        "label": "Attractions"
+      }
+    ]
+  },
+  {
+    "key": "places-to-eat",
+    "label": "Places to Eat",
+    "children": [
+      {
+        "key": "restaurants",
+        "label": "Restaurants"
+      },
+      {
+        "key": "restaurant-menus",
+        "label": "Restaurant Menus"
+      }
+    ]
+  }
+]

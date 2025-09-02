@@ -1,0 +1,842 @@
+[
+  {
+    "id": "pv-attraction-001",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Skyline Viewpoint",
+    "slug": "skyline-viewpoint",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Dubai Marina",
+    "price_tier": "$$",
+    "rating": 4.3500000000000005,
+    "votes": 237,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-002",
+      "pv-attraction-003"
+    ]
+  },
+  {
+    "id": "pv-attraction-002",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Ocean Park",
+    "slug": "ocean-park",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Jumeirah",
+    "price_tier": "$$$",
+    "rating": 4.5,
+    "votes": 274,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-003",
+      "pv-attraction-004"
+    ]
+  },
+  {
+    "id": "pv-attraction-003",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Historic Fort",
+    "slug": "historic-fort",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Deira",
+    "price_tier": "$",
+    "rating": 4.65,
+    "votes": 311,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-004",
+      "pv-attraction-005"
+    ]
+  },
+  {
+    "id": "pv-attraction-004",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Miracle Gardens",
+    "slug": "miracle-gardens",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Palm Jumeirah",
+    "price_tier": "$$",
+    "rating": 4.8,
+    "votes": 348,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-005",
+      "pv-attraction-006"
+    ]
+  },
+  {
+    "id": "pv-attraction-005",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Sunset Beach",
+    "slug": "sunset-beach",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Business Bay",
+    "price_tier": "$$$",
+    "rating": 4.2,
+    "votes": 385,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-006",
+      "pv-attraction-007"
+    ]
+  },
+  {
+    "id": "pv-attraction-006",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Cultural Heritage Center",
+    "slug": "cultural-heritage-center",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Al Quoz",
+    "price_tier": "$",
+    "rating": 4.3500000000000005,
+    "votes": 422,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-007",
+      "pv-attraction-008"
+    ]
+  },
+  {
+    "id": "pv-attraction-007",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "City Observation Deck",
+    "slug": "city-observation-deck",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "The Palm",
+    "price_tier": "$$",
+    "rating": 4.5,
+    "votes": 459,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-008",
+      "pv-attraction-009"
+    ]
+  },
+  {
+    "id": "pv-attraction-008",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Adventure Land",
+    "slug": "adventure-land",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Al Satwa",
+    "price_tier": "$$$",
+    "rating": 4.65,
+    "votes": 496,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-009",
+      "pv-attraction-010"
+    ]
+  },
+  {
+    "id": "pv-attraction-009",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Aquarium World",
+    "slug": "aquarium-world",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Dubai Hills",
+    "price_tier": "$",
+    "rating": 4.8,
+    "votes": 533,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-010",
+      "pe-restaurant-001"
+    ]
+  },
+  {
+    "id": "pv-attraction-010",
+    "category": "places-to-visit",
+    "subcategory": "attractions",
+    "name": "Botanical Oasis",
+    "slug": "botanical-oasis",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Downtown",
+    "price_tier": "$$",
+    "rating": 4.2,
+    "votes": 570,
+    "badges": [
+      "Editor Pick",
+      "Good for Families"
+    ],
+    "best_time": "Sunset (17:30\u201319:00)",
+    "opening_hours": {
+      "Mon-Sun": "10:00\u201322:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero2.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-001",
+      "pe-restaurant-002"
+    ]
+  },
+  {
+    "id": "pe-restaurant-001",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Saffron Spice",
+    "slug": "saffron-spice",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Dubai Marina",
+    "price_tier": "$$$",
+    "rating": 4.18,
+    "votes": 191,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-002",
+      "pe-restaurant-003"
+    ]
+  },
+  {
+    "id": "pe-restaurant-002",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Marina Grill",
+    "slug": "marina-grill",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Jumeirah",
+    "price_tier": "$$",
+    "rating": 4.36,
+    "votes": 232,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-003",
+      "pe-restaurant-004"
+    ]
+  },
+  {
+    "id": "pe-restaurant-003",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Garden Bistro",
+    "slug": "garden-bistro",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Deira",
+    "price_tier": "$",
+    "rating": 4.54,
+    "votes": 273,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-004",
+      "pe-restaurant-005"
+    ]
+  },
+  {
+    "id": "pe-restaurant-004",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Spice Route",
+    "slug": "spice-route",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Palm Jumeirah",
+    "price_tier": "$$$",
+    "rating": 4.72,
+    "votes": 314,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-005",
+      "pe-restaurant-006"
+    ]
+  },
+  {
+    "id": "pe-restaurant-005",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Harbor Steakhouse",
+    "slug": "harbor-steakhouse",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Business Bay",
+    "price_tier": "$$",
+    "rating": 4.0,
+    "votes": 355,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-006",
+      "pe-restaurant-007"
+    ]
+  },
+  {
+    "id": "pe-restaurant-006",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Sea Breeze Cafe",
+    "slug": "sea-breeze-cafe",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Al Quoz",
+    "price_tier": "$",
+    "rating": 4.18,
+    "votes": 396,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-007",
+      "pe-restaurant-008"
+    ]
+  },
+  {
+    "id": "pe-restaurant-007",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Urban Deli",
+    "slug": "urban-deli",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "The Palm",
+    "price_tier": "$$$",
+    "rating": 4.36,
+    "votes": 437,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-008",
+      "pe-restaurant-009"
+    ]
+  },
+  {
+    "id": "pe-restaurant-008",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Palm Terrace",
+    "slug": "palm-terrace",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Al Satwa",
+    "price_tier": "$$",
+    "rating": 4.54,
+    "votes": 478,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-009",
+      "pe-restaurant-010"
+    ]
+  },
+  {
+    "id": "pe-restaurant-009",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Golden Dragon",
+    "slug": "golden-dragon",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Dubai Hills",
+    "price_tier": "$",
+    "rating": 4.72,
+    "votes": 519,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pe-restaurant-010",
+      "pv-attraction-001"
+    ]
+  },
+  {
+    "id": "pe-restaurant-010",
+    "category": "places-to-eat",
+    "subcategory": "restaurants",
+    "name": "Mystic Curry",
+    "slug": "mystic-curry",
+    "short_desc": "Original placeholder description for demo purposes.",
+    "area": "Downtown",
+    "price_tier": "$$$",
+    "rating": 4.0,
+    "votes": 560,
+    "badges": [
+      "Editor Pick",
+      "Great Service"
+    ],
+    "best_time": "Dinner (19:00\u201321:00)",
+    "opening_hours": {
+      "Mon-Sun": "12:00\u201323:00"
+    },
+    "amenities": [
+      "Parking",
+      "Wheelchair Access",
+      "Restrooms"
+    ],
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "hero_image": "/assets/images/placeholders/hero3.svg",
+    "gallery": [
+      "/assets/images/placeholders/gallery1.svg",
+      "/assets/images/placeholders/gallery2.svg"
+    ],
+    "faq": [
+      {
+        "q": "Is pre-booking required?",
+        "a": "Not required on weekdays; weekends are busier."
+      }
+    ],
+    "similar_ids": [
+      "pv-attraction-001",
+      "pv-attraction-002"
+    ]
+  }
+]
